@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Pomodoro Timer + History</title>
+  <title>Pomodoro Timer </title>
   <style>
     :root{
       --bg:#0b0f17;
@@ -156,8 +156,8 @@
   <div class="wrap">
     <header>
       <div>
-        <h1>Pomodoro Timer + History</h1>
-        <p class="sub">集中→休憩を回し、履歴と統計を自動保存（localStorage）</p>
+        <h1>Pomodoro Timer + </h1>
+       <p class="sub">集中→休憩を回し、履歴と統計を自動保存（localStorage）</p>
       </div>
       <div class="pill" id="clockPill">🕘 —</div>
     </header>
