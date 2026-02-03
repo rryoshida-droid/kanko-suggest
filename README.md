@@ -1,4 +1,4 @@
-# kanko-suggest
+# Pomodoro Timer
 <!doctype html>
 <html lang="ja">
 <head>
